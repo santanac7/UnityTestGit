@@ -1,0 +1,13 @@
+.vscode/
+Assembly-CSharp.csproj
+Assets/Scenes.meta
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scripts.meta
+Assets/Scripts/Player.cs.meta
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UnityGitTest.sln
+UserSettings/
+obj/
