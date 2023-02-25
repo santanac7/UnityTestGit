@@ -14,7 +14,7 @@ public class Player : MonoBehaviour
     {
         rB = GetComponent<Rigidbody2D>(); // Trae el RB de desde unity
     }
-
+    //Comentario entre el starr y el update
     void Update()
     {
         // xMove    
