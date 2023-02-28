@@ -5,7 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     /* Script comentado para coparar commits en Git */
-    // Segunco comment
+    
     Rigidbody2D rB; // Variable que almacera el Rigidbody2D
     [SerializeField] float xSpeed; //  Velocidad de movimiento
     float xMove; // Guarda el input en esta variable
